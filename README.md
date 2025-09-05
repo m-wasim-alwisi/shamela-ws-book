@@ -16,20 +16,20 @@ Python 3.x
 Chrome browser installed on your system
 
 # Required Python packages:
+<ol>
+  <li>requests</li>
+  <li>beautifulsoup4</li>
+  <li>selenium</li>
+  <li>chromedriver_autoinstaller</li>
+</ol>
 
-requests
-
-beautifulsoup4
-
-selenium
-
-chromedriver_autoinstaller
-
-Installation
+# Installation
 Install the required packages:
 
-bash
+```
 pip install requests beautifulsoup4 selenium chromedriver_autoinstaller
+```
+
 Ensure you have Chrome browser installed on your system
 
 # Usage
