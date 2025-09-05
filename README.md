@@ -11,9 +11,10 @@ Extracts and cleans text content from specific HTML elements
 Handles dynamic content with implicit waits
 
 # Requirements
-Python 3.x
-
-Chrome browser installed on your system
+<ul>
+<li>Python 3.x</li>
+<li>Chrome browser installed on your system</li>
+</ul>
 
 # Required Python packages:
 <ol>
